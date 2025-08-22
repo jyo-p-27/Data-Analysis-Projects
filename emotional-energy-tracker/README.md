@@ -33,11 +33,11 @@ Key Insights
 
 Live Dashboard
 
-View Interactive Power BI Dashboard
+https://app.powerbi.com/links/pV9JGbZkdG?ctid=e0793d39-0939-496d-b129-198edd916feb&pbi_source=linkShare&bookmarkGuid=f5c1a948-d8bd-4b5d-a0ac-e35f326d72f8
 
 Repository Contents
 
-•	Emotional_Energy_Tracker.pbix → Power BI file
+•	Emotional Energy Tracker.pbix → Power BI file
 
 •	Dashboard_Snapshot.pdf → Static view of dashboard
 
@@ -51,4 +51,6 @@ Tech Stack
 
 Connect with Me
 
-LinkedIn Profile
+LinkedIn -> www.linkedin.com/in/jyothip0206
+
+Mail -> jyothipavan2762@gmail.com
