@@ -1,1 +1,57 @@
+💰 CashFlow Compass
+CashFlow Compass is a personal finance analytics project that helps you track spending, understand patterns, and improve financial discipline using Python and Power BI.
+🚀 Project Overview
+Managing money can be challenging without insights into where it goes, why it’s spent, and how to control it. This project answers key questions like:
+•	Where does my money go?
+•	How much do I spend daily, weekly, and monthly?
+•	Are purchases planned or impulsive?
+•	What triggers my spending?
+•	Do I spend more on weekdays or weekends?
+📊 Data & Methodology
+•	Data Sources: 3 months of personal bank and credit card statements.
+•	Processing: Cleaned, categorized, and merged in Python (Google Colab).
+•	Analysis: EDA to reveal patterns, triggers, and behavioral insights.
+•	Visualization: Power BI dashboards for interactive, actionable insights.
+📈 Key Visualizations
+Page 1 – Overview 
+Cards:
+•	Total Expenses – Total money spent in the 3-month period.
+•	Total Income – Total income received.
+•	Net Savings – Income minus expenses.
+Visuals:
+•	Expense Breakdown by Category – Where does my money go?
+•	Spending Trend Over Time – How do my spending patterns change over time?
+Page 2 – Spending Insights
+•	Weekday vs Weekend Spending 
+•	Planned vs Impulsive Spending 
+•	Provoking Factors 
+•	Expenses Split by Credit vs Debit  
+Page 3 – Behavioral Insights
+•	Planned vs Impulsive Over Time 
+•	Spending by Day of the Week 
+•	Planned vs Impulsive by Day Type 
+•	Spending by Category & Planned vs Impulsive 
+Page 4 – Credit Card Insights
+•	Credit Card Spending by Category
+•	Credit Card Spending by Planned vs Impulsive
+•	Credit Card Spending Trend Over Time
+•	Credit Card Spending by Category & Planned/Impulsive
 
+🛠 Technologies Used
+•	Python (Google Colab): Data cleaning, EDA, and processing
+•	Power BI: Interactive dashboards
+•	Google Sheets: Initial data collection
+💡 Insights & Impact
+•	Pinpoints where money is going and categories needing attention.
+•	Highlights impulse spending triggers and behavioral patterns.
+•	Tracks credit card usage and outstanding payments.
+•	Provides guidance for better financial decisions and savings management.
+📈 Future Enhancements
+•	Add more months of data for long-term trend analysis.
+•	Introduce predictive modeling for budgeting and alerts.
+•	Automate data ingestion for real-time tracking.
+•	Compare spending with average benchmarks for categories.
+Live dashboard (link)
+Connect with Me
+LinkedIn -> www.linkedin.com/in/jyothip0206
+Mail -> jyothipavan2762@gmail.com
