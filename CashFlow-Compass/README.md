@@ -106,4 +106,5 @@ Live dashboard -> https://app.powerbi.com/links/B8PcvE97MS?ctid=e0793d39-0939-49
 Connect with Me
 
 LinkedIn -> www.linkedin.com/in/jyothip0206
+
 Mail -> jyothipavan2762@gmail.com
