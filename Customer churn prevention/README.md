@@ -179,6 +179,14 @@ This project demonstrates how analytics can:
 
 -> It reflects a real-world analytics workflow, from problem framing to business impact.
 
+Live Dashboard Link : ()
+
 Feel free to connect or reach out if you’d like to discuss this project or similar analytics use cases.
 
-⭐ If you found this project interesting, feel free to star the repo!
+Connect with Me
+
+LinkedIn -> www.linkedin.com/in/jyothip0206
+
+Mail -> jyothipavan2762@gmail.com
+
+If you found this project interesting, feel free to star the repo! ⭐
