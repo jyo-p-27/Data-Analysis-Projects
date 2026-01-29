@@ -179,7 +179,7 @@ This project demonstrates how analytics can:
 
 -> It reflects a real-world analytics workflow, from problem framing to business impact.
 
-Live Dashboard Link : ()
+Live Dashboard Link : https://app.powerbi.com/links/Vn0SCFfuEi?ctid=e0793d39-0939-496d-b129-198edd916feb&pbi_source=linkShare
 
 Feel free to connect or reach out if you’d like to discuss this project or similar analytics use cases.
 
