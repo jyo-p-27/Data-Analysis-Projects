@@ -1,8 +1,8 @@
-📉 Customer Churn Prediction & Retention Strategy
+## 📉 Customer Churn Prediction & Retention Strategy
 
 A Business-Focused Analytics & Visualization Project
 
-📌 Project Overview
+**📌 Project Overview**
 
 Customer churn is one of the biggest revenue risks for subscription-based businesses. Losing a customer not only impacts immediate revenue but also reduces lifetime value, increases acquisition costs, and weakens long-term growth.
 
