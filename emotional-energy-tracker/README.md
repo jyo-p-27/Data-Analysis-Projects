@@ -1,4 +1,4 @@
-Emotional Energy Tracker with Music & Mood
+## 🎧Emotional Energy Tracker with Music & Mood
 
 Overview
 
@@ -21,7 +21,7 @@ The goal is to visualize patterns and derive insights using Power BI, showcasing
 
 Dashboard Preview
 
-Key Insights
+**💡Key Insights**
 
 •	Most common music genre: Calm, soothing
 
@@ -43,7 +43,7 @@ Repository Contents
 
 •	README.md → Project documentation
 
-Tech Stack
+**⚙️ Tech Stack**
 
 •	Power BI Desktop – Data modeling, DAX, and visualization
 
