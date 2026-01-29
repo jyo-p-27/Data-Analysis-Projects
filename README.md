@@ -24,7 +24,9 @@ Each project is structured with:
 
 - **Cashflow Compass** → Power BI + SQL financial analysis dashboard
   
-- **Emotional Energy Tracker** → Python data collection & visualization project   
+- **Emotional Energy Tracker** → Python data collection & visualization project
+
+ - **Customer Churn Prediction & Retention Strategy** -> Power BI + SQL churn analysis and prevention dashboard
 
 ## 📬 Contact  
 
