@@ -101,7 +101,15 @@ Page 4 – Credit Card Insights
 
 •	Compare spending with average benchmarks for categories.
 
-Live dashboard -> https://app.powerbi.com/links/B8PcvE97MS?ctid=e0793d39-0939-496d-b129-198edd916feb&pbi_source=linkShare
+## 🔗 Dashboard Access
+
+Due to account restrictions, the Power BI dashboard is not publicly hosted.
+
+However, the full dashboard experience is documented through:
+
+- High-resolution dashboard screenshots
+
+The dashboards were designed to mirror real-world production analytics environments.
 
 Connect with Me
 
