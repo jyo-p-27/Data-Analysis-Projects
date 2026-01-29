@@ -18,7 +18,7 @@ Each project is structured with:
     
 - README – technical notes and usage instructions  
 
-📌 For business-oriented case studies (Problem → Approach → Impact), see my separate Case Studies Portfolio Repo (will link it here once i start the case studies).  
+📌 For business-oriented case studies (Problem → Approach → Impact), see my separate Case Studies Portfolio Repo -> https://github.com/jyo-p-27/Case-Studies.git
 
 ## 📂 Projects  
 
