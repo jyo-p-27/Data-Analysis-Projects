@@ -31,9 +31,14 @@ Dashboard Preview
 
 •	Observation: Calm and Lo-fi genres positively correlate with higher mood & energy levels.
 
-Live Dashboard
+## 🔗 Dashboard Access
 
-https://app.powerbi.com/links/pV9JGbZkdG?ctid=e0793d39-0939-496d-b129-198edd916feb&pbi_source=linkShare&bookmarkGuid=f5c1a948-d8bd-4b5d-a0ac-e35f326d72f8
+Due to account restrictions, the Power BI dashboard is not publicly hosted.
+
+However, the full dashboard experience is documented through:
+- High-resolution dashboard screenshots
+
+The dashboards were designed to mirror real-world production analytics environments.
 
 Repository Contents
 
