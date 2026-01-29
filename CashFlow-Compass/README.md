@@ -1,4 +1,4 @@
-💰 CashFlow Compass
+## 💰 CashFlow Compass
 
 CashFlow Compass is a personal finance analytics project that helps you track spending, understand patterns, and improve financial discipline using Python and Power BI.
 
