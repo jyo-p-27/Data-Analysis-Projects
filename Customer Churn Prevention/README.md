@@ -179,7 +179,15 @@ This project demonstrates how analytics can:
 
 -> It reflects a real-world analytics workflow, from problem framing to business impact.
 
-Live Dashboard Link : https://app.powerbi.com/links/Vn0SCFfuEi?ctid=e0793d39-0939-496d-b129-198edd916feb&pbi_source=linkShare
+## 🔗 Dashboard Access
+
+Due to account restrictions, the Power BI dashboard is not publicly hosted.
+
+However, the full dashboard experience is documented through:
+- High-resolution dashboard screenshots
+- A detailed case study walkthrough explaining insights and decisions
+
+The dashboards were designed to mirror real-world production analytics environments.
 
 Feel free to connect or reach out if you’d like to discuss this project or similar analytics use cases.
 
